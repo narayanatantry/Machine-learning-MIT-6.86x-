@@ -20,5 +20,5 @@
   <li>Linear Regression</li>
   <li>Nonlinear Classification</li>
   <li>Recommender Systems</li>
-  <li><Project 2: Digit recognition</li>
+  <li>Project 2: Digit recognition(part 1)</li>
 </ul>
