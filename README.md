@@ -11,3 +11,14 @@
   <li>Hinge loss, Margin boundaries and Regularization</li>
   <li>Project 1: Automatic Review Analyzer</li>
 </ul>  
+
+
+<h3>Nonlinear Classification, Linear regression, Collaborative Filtering
+</h3>
+
+<ul>
+  <li>Linear Regression</li>
+  <li>Nonlinear Classification</li>
+  <li>Recommender Systems</li>
+  <li><Project 2: Digit recognition (Part 1)/li>
+</ul>
