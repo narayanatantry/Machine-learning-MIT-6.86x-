@@ -1,5 +1,5 @@
 # Machine-learning-and-deep-learning(MIT-6.86x)
-<h2>Machine learning and introduction into deep learning using Python.</h2>
+<h2>Machine learning and deep learning using Python.</h2>
 <p>course taken on edx.</p>
 <b>topics covered</b>
 <h3>Linear classifiers and generalization
