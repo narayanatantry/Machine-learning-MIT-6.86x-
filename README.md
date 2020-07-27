@@ -22,3 +22,24 @@
   <li>Recommender Systems</li>
   <li>Project 2: Digit recognition(part 1)</li>
 </ul>
+
+<h3>Nueral networks</h3>
+<ul>
+  <li>Introduction to Feedforward Neural Networks</li>
+  <li>Feedforward Neural Networks, Back Propagation, and Stochastic Gradient Descent</li>
+  <li>Recurrent Neural Networks</li>
+  <li>Convolutional Neural Networks</li>
+ </ul>
+ <h3>Unsupervised learning</h3>
+ <ul>
+  <li>clustering</li>
+  <li>generating models</li>
+  <li>Em algorithm</li>
+  <li>gaussian fixtures</li>
+  </ul>
+  <h3> reinforcement learning</h3>
+  <ul>
+  <li>reinforcement leanring</li>
+  <li>Natural langauge Processing</li>
+ </ul>
+    
