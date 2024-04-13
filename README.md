@@ -42,4 +42,6 @@
   <li>reinforcement leanring</li>
   <li>Natural langauge Processing</li>
  </ul>
-    
+
+
+<h3>Learnt it with Rush, will come back later and remove this once i understand all this from first principles</h3>
